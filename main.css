@@ -1,0 +1,85 @@
+
+  #wrap {
+      height: 1800px;
+      width: 100%;
+    
+  }
+
+#sredina {
+    height: 1000px;
+    width: 70%;
+   
+ 
+}
+
+img {
+    margin-top: 30px;
+}
+
+#main {
+    height: 50px;
+    background-color: darkred;
+   color: white;
+   display: flex;
+   justify-content: center;
+
+}
+
+
+ul li {
+   margin: 0 50px;
+font-size: 20px;
+}
+
+ul li hr {
+    height:20px;
+    border-right:1px solid white;
+    width: 0px;
+}
+
+#jumbo {
+   margin-left: 450px;
+}
+
+#p {
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+#bijelo {
+    background-color: white;
+}
+
+#links {
+    background-color: white;
+    color:grey;
+    
+   
+}
+
+#links ul {
+    margin-left: 20px;
+    list-style-type: none;
+    font-weight: 300px;
+    
+}
+
+#links ul li {
+    font-size: 15px;
+}
+
+#links .col-6 {
+    margin-top:20px;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#dno {
+    padding: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+
+
+
